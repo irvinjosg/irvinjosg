@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/6784f76d-a9f0-4226-9470-7a6e7918171c)
 
 <!--
 **irvinjosg/irvinjosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
