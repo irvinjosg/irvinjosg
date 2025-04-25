@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">I'm Irvin, currently in the 3rd semester at Mariano Gálvez University.🧑‍🎓</p>
-<p align="center">Here, I'm going to update personal projects and homework I need to do for my education.</p>
 <div align="center">
 <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4YvFZALqhd-Kl91Fgssmje1h1gJU8rJIgg&s" height="100" width="100" alt="logo UMG " />
 </div>
+<p align="center">Here, I'm going to update personal projects and homework I need to do for my education.</p>
+
 
 <h3 align="center">About me! 💻🙋</h3>
 <p align="center">I know some different things in the tech area.</p>
