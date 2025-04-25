@@ -20,7 +20,7 @@
 <p align="center">You can find me here!</p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/irvin-gonzález-836ba321b" target="_blank">
+  <a href="https://www.linkedin.com/in/irvin-gonzález-836ba321b" target="_blank">
     <img src="https://github.com/user-attachments/assets/e3f077df-04b8-408a-badc-aa65f62dcd34" height="40" alt="linkedin logo"  />
   </a>
 </div>
